@@ -178,7 +178,7 @@
     "sm": true,
     "status": "Done",
     "owner": "",
-    "flagged": false,
+    "flagged": true,
     "notes": ""
   },
   {

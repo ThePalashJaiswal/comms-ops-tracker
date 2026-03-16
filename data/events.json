@@ -165,7 +165,7 @@
     "sm": false,
     "status": "Done",
     "owner": "Assigned",
-    "flagged": true,
+    "flagged": false,
     "notes": ""
   },
   {

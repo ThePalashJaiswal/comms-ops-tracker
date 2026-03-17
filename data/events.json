@@ -228,7 +228,7 @@
     "detail": "Awareness for GSAT",
     "wa": true,
     "sm": false,
-    "status": "Done",
+    "status": "Pending",
     "owner": "",
     "flagged": true,
     "notes": ""
@@ -918,7 +918,7 @@
     "wa": false,
     "sm": false,
     "status": "Pending",
-    "owner": "Shayant",
+    "owner": "",
     "flagged": false,
     "notes": ""
   },

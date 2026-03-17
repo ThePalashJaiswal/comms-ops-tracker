@@ -230,7 +230,7 @@
     "sm": false,
     "status": "Pending",
     "owner": "",
-    "flagged": false,
+    "flagged": true,
     "notes": ""
   },
   {

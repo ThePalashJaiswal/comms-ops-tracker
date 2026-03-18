@@ -241,7 +241,7 @@
     "detail": "TBD",
     "wa": false,
     "sm": false,
-    "status": "Done",
+    "status": "Pending",
     "owner": "",
     "flagged": false,
     "notes": ""
@@ -918,7 +918,7 @@
     "wa": false,
     "sm": false,
     "status": "Pending",
-    "owner": "Shayant",
+    "owner": "",
     "flagged": false,
     "notes": ""
   },

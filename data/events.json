@@ -7,7 +7,7 @@
     "detail": "Scholarship Test",
     "wa": true,
     "sm": true,
-    "status": "Pending",
+    "status": "Done",
     "owner": "Shayant",
     "flagged": false,
     "notes": ""
@@ -33,7 +33,7 @@
     "detail": "Holi Sale 2027",
     "wa": true,
     "sm": true,
-    "status": "Pending",
+    "status": "Done",
     "owner": "",
     "flagged": false,
     "notes": ""
@@ -1112,7 +1112,7 @@
     "detail": "Nurturing Emailer 1",
     "wa": false,
     "sm": false,
-    "status": "Pending",
+    "status": "Done",
     "owner": "",
     "flagged": false,
     "notes": ""

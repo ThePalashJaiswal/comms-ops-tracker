@@ -7,7 +7,7 @@
     "detail": "Scholarship Test",
     "wa": true,
     "sm": true,
-    "status": "Pending",
+    "status": "Done",
     "owner": "Shayant",
     "flagged": false,
     "notes": ""
@@ -230,7 +230,7 @@
     "sm": false,
     "status": "Done",
     "owner": "",
-    "flagged": true,
+    "flagged": false,
     "notes": ""
   },
   {
